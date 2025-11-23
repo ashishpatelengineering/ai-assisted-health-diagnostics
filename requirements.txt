@@ -1,0 +1,7 @@
+python-dotenv
+pillow
+jsonify
+phidata
+streamlit 
+duckduckgo-search
+google-generativeai
